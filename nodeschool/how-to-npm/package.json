@@ -1,0 +1,13 @@
+{
+  "name": "@josedab/how-to-npm",
+  "version": "1.0.2",
+  "description": "First npm package. Upgraded patch version.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": "https://github.com/josedab/node-examples",
+  "author": "josedab",
+  "license": "MIT",
+  "dependencies": {}
+}
